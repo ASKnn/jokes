@@ -11,16 +11,19 @@ class JokesSourceDemo implements JokesSourceInterface
 {
     public function getSpecificItem(int $id) : string
     {
-        // TODO: Implement getSpecificItem() method.
+        return "Joke.";
     }
 
     public function getRandomItemFromCategories(array $categories) : string
     {
-        // TODO: Implement getRandomItem() method.
+        return "Some joke.";
     }
 
     public function getAllCategories(): array
     {
-        // TODO: Implement getListCategories() method.
+        return [
+            0 => 'first category',
+            1 => 'second category'
+        ];
     }
 }

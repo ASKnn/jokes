@@ -16,6 +16,7 @@
         "symfony/lts": "^3",
         "symfony/monolog-bundle": "^3.1",
         "symfony/orm-pack": "*",
+        "symfony/phpunit-bridge": "^3.4",
         "symfony/process": "^3.4",
         "symfony/security-bundle": "^3.4",
         "symfony/serializer-pack": "*",
