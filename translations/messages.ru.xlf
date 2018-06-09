@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" target-language="ru" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="email.joke_random_from_category.subject">
+                <source>email.joke_random_from_category.subject</source>
+                <target>Случайная шутка из %category_name%</target>
+            </trans-unit>
+            <trans-unit id="email.joke_random_from_category.body">
+                <source>email.joke_random_from_category.body</source>
+                <target>Случайная шутка из категории "%category_name%": %joke_string%</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

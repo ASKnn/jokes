@@ -1,0 +1,2 @@
+email.joke_random_from_category.subject: 'Случайная шутка из %category_name%'
+email.joke_random_from_category.body: 'Случайная шутка из категории "%category_name%": %joke_string%'
